@@ -1,4 +1,4 @@
-# IDD-Fa18-PreLab2
+# IDD-Fa18-PreLab3
 
 Sensors soldered with connectors
 
